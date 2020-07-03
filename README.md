@@ -31,7 +31,3 @@ G1, 2015. Confiar no GPS pode ser um problema nas grandes cidades. Disponível e
 
 G1, 2015. Saiba como evitar riscos ao seguir aplicativos e equipamentos de GPS. Disponível em: <http://g1.globo.com/jornal-nacional/noticia/2015/10/saiba-como-evitar-riscos-ao-seguir-aplicativos-e-equipamentos-de-gps.html>. Acesso em maio de 2020.
 
-### 2ª Quinzena de maio
-### 1ª Quinzena de junho
-### 2ª Quinzena de junho
-### 1ª Quinzena de julho
