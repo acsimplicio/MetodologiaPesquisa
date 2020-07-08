@@ -7,7 +7,7 @@
 
 ### 1: Problema:
 
-Existe um grande risco ao confiar nos serviços de GPS, visto que levam n~so levam em consideração o risco de seus trajetos.
+Existe um grande risco ao confiar nos serviços de GPS, visto que levam não levam em consideração o risco de seus trajetos.
 
 ### 2: Motivação:
 
