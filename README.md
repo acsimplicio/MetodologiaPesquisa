@@ -1,13 +1,13 @@
-## Metodologia - 4º BD
-Professor da Disciplina: Giuliano Bertoti
+## Metodologia de Pesquisa Científico Tecnológica - 4º BD
+**Professor da Disciplina:** Giuliano Bertoti
 
-Aluno: Ana Carolina Simplicio de Moura
+**Aluna:** Ana Carolina Simplicio de Moura
 
-RA: 1460281823004
+**RA:** 1460281823004
 
 ### 1: Problema:
 
-Existe um grande risco ao confiar nos serviços de GPS, visto que levam em condição apenas a rapidez do trajeto.
+Existe um grande risco ao confiar nos serviços de GPS, visto que levam n~so levam em consideração o risco de seus trajetos.
 
 ### 2: Motivação:
 
@@ -26,8 +26,8 @@ Por exemplo, para alguém se locomovendo por carro, um caminho que evite áreas 
 
 ### 4: Referências:
 
-Veja São Paulo, 2017. As roubadas enfrentadas por motoristas ao seguir atalhos de aparelhos de GPS por Adriana Farias. Disponível em: <https://vejasp.abril.com.br/cidades/roubadas-motoristas-dicas-rota-gps-waze/>. Acesso em maio de 2020.
+Veja São Paulo, 2017. **As roubadas enfrentadas por motoristas ao seguir atalhos de aparelhos de GPS por Adriana Farias**. Disponível em: <https://vejasp.abril.com.br/cidades/roubadas-motoristas-dicas-rota-gps-waze/>. Acesso em maio de 2020.
 
-G1, 2015. Confiar no GPS pode ser um problema nas grandes cidades. Disponível em: <http://g1.globo.com/jornal-nacional/noticia/2015/08/usuarios-relatam-problemas-em-que-gps-indicou-area-de-risco.html>. Acesso em maio de 2020.
+G1, 2015. **Confiar no GPS pode ser um problema nas grandes cidades**. Disponível em: <http://g1.globo.com/jornal-nacional/noticia/2015/08/usuarios-relatam-problemas-em-que-gps-indicou-area-de-risco.html>. Acesso em maio de 2020.
 
-G1, 2015. Saiba como evitar riscos ao seguir aplicativos e equipamentos de GPS. Disponível em: <http://g1.globo.com/jornal-nacional/noticia/2015/10/saiba-como-evitar-riscos-ao-seguir-aplicativos-e-equipamentos-de-gps.html>. Acesso em maio de 2020.
+G1, 2015. **Saiba como evitar riscos ao seguir aplicativos e equipamentos de GPS**. Disponível em: <http://g1.globo.com/jornal-nacional/noticia/2015/10/saiba-como-evitar-riscos-ao-seguir-aplicativos-e-equipamentos-de-gps.html>. Acesso em maio de 2020.
